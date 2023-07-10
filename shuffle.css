@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(227, 235, 184);
+    color:black;
+
+}
+button{
+    padding: 10px;
+    border: 10%;
+    justify-content: center;
+    border-radius: 100px;
+    cursor: pointer;
+
+}
+input{
+    padding: 5px;
+    border-radius: 50px;
+    color: black;
+    background-color:white;
+}
